@@ -25,3 +25,17 @@ int main(){
     cout<<num;
     return 0;
 }
+
+
+// int reverse(int n){
+//     int rev=0;
+//     while(n!=0){
+//     int rem=n%10;
+//     rev=(rev*10)+rem;
+//     if(rev>INT_MAX/10||rev==INT_MAX/10&&n>7)return 0;
+//     if(rev<INT_MIN/10||rev==INT_MIN/10&&n<-8)return 0;
+//     n=n/10;
+
+// }
+// return rev;
+// }
