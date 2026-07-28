@@ -30,6 +30,7 @@ Patterns/
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sinhamahi2109/DSA-journey/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sinhamahi2109/DSA-journey/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sinhamahi2109/DSA-journey/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
@@ -44,5 +45,10 @@ Patterns/
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sinhamahi2109/DSA-journey/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sinhamahi2109/DSA-journey/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/sinhamahi2109/DSA-journey/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
