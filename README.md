@@ -30,6 +30,7 @@ Patterns/
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/sinhamahi2109/DSA-journey/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/sinhamahi2109/DSA-journey/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sinhamahi2109/DSA-journey/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sinhamahi2109/DSA-journey/tree/master/0073-set-matrix-zeroes) |
@@ -68,4 +69,8 @@ Patterns/
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/sinhamahi2109/DSA-journey/tree/master/0704-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/sinhamahi2109/DSA-journey/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
