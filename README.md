@@ -32,6 +32,7 @@ Patterns/
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sinhamahi2109/DSA-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sinhamahi2109/DSA-journey/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sinhamahi2109/DSA-journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sinhamahi2109/DSA-journey/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/sinhamahi2109/DSA-journey/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sinhamahi2109/DSA-journey/tree/master/0054-spiral-matrix) |
@@ -70,6 +71,7 @@ Patterns/
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sinhamahi2109/DSA-journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sinhamahi2109/DSA-journey/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/sinhamahi2109/DSA-journey/tree/master/0704-binary-search) |
 ## Two Pointers
