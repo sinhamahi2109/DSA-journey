@@ -32,6 +32,7 @@ Patterns/
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sinhamahi2109/DSA-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sinhamahi2109/DSA-journey/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/sinhamahi2109/DSA-journey/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/sinhamahi2109/DSA-journey/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sinhamahi2109/DSA-journey/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sinhamahi2109/DSA-journey/tree/master/0073-set-matrix-zeroes) |
@@ -69,6 +70,7 @@ Patterns/
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sinhamahi2109/DSA-journey/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/sinhamahi2109/DSA-journey/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
