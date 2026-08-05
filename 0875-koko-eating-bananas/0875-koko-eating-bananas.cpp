@@ -3,7 +3,9 @@ public:
     long long  fn(vector<int>&piles, int hourly){
         long long tothr=0;
         for(int i=0;i<piles.size();i++){
-            tothr += (piles[i] + hourly - 1) / hourly;
+        double a=double(piles[i])/double(hourly);
+            tothr+=ceil(a);
+            // tothr += (piles[i] + hourly - 1) / hourly;
         }
         return tothr;
     }
