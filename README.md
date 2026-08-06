@@ -46,6 +46,7 @@ Patterns/
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sinhamahi2109/DSA-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sinhamahi2109/DSA-journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sinhamahi2109/DSA-journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/sinhamahi2109/DSA-journey/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ Patterns/
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sinhamahi2109/DSA-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sinhamahi2109/DSA-journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sinhamahi2109/DSA-journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/sinhamahi2109/DSA-journey/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
 |  |
 | ------- |
