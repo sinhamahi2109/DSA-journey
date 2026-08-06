@@ -43,6 +43,7 @@ Patterns/
 | [0560-subarray-sum-equals-k](https://github.com/sinhamahi2109/DSA-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sinhamahi2109/DSA-journey/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sinhamahi2109/DSA-journey/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sinhamahi2109/DSA-journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sinhamahi2109/DSA-journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Hash Table
 |  |
@@ -81,6 +82,7 @@ Patterns/
 | [0540-single-element-in-a-sorted-array](https://github.com/sinhamahi2109/DSA-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sinhamahi2109/DSA-journey/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sinhamahi2109/DSA-journey/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sinhamahi2109/DSA-journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sinhamahi2109/DSA-journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Two Pointers
 |  |
