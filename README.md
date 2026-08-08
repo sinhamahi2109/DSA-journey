@@ -39,6 +39,7 @@ Patterns/
 | [0073-set-matrix-zeroes](https://github.com/sinhamahi2109/DSA-journey/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sinhamahi2109/DSA-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/sinhamahi2109/DSA-journey/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/sinhamahi2109/DSA-journey/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sinhamahi2109/DSA-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sinhamahi2109/DSA-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sinhamahi2109/DSA-journey/tree/master/0704-binary-search) |
@@ -74,6 +75,7 @@ Patterns/
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/sinhamahi2109/DSA-journey/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sinhamahi2109/DSA-journey/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
@@ -81,6 +83,7 @@ Patterns/
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sinhamahi2109/DSA-journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sinhamahi2109/DSA-journey/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/sinhamahi2109/DSA-journey/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/sinhamahi2109/DSA-journey/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sinhamahi2109/DSA-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sinhamahi2109/DSA-journey/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sinhamahi2109/DSA-journey/tree/master/0875-koko-eating-bananas) |
@@ -93,4 +96,12 @@ Patterns/
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sinhamahi2109/DSA-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sinhamahi2109/DSA-journey/tree/master/0031-next-permutation) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/sinhamahi2109/DSA-journey/tree/master/0410-split-array-largest-sum) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/sinhamahi2109/DSA-journey/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
