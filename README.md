@@ -113,6 +113,7 @@ Patterns/
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sinhamahi2109/DSA-journey/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/sinhamahi2109/DSA-journey/tree/master/0151-reverse-words-in-a-string) |
+| [0796-rotate-string](https://github.com/sinhamahi2109/DSA-journey/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sinhamahi2109/DSA-journey/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/sinhamahi2109/DSA-journey/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
@@ -127,4 +128,8 @@ Patterns/
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sinhamahi2109/DSA-journey/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/sinhamahi2109/DSA-journey/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
