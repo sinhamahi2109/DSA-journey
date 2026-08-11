@@ -52,6 +52,7 @@ Patterns/
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sinhamahi2109/DSA-journey/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/sinhamahi2109/DSA-journey/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sinhamahi2109/DSA-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/sinhamahi2109/DSA-journey/tree/master/0242-valid-anagram) |
@@ -70,6 +71,7 @@ Patterns/
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sinhamahi2109/DSA-journey/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sinhamahi2109/DSA-journey/tree/master/0048-rotate-image) |
 | [1903-largest-odd-number-in-string](https://github.com/sinhamahi2109/DSA-journey/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
@@ -113,6 +115,7 @@ Patterns/
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sinhamahi2109/DSA-journey/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sinhamahi2109/DSA-journey/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/sinhamahi2109/DSA-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sinhamahi2109/DSA-journey/tree/master/0242-valid-anagram) |
