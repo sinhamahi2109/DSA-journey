@@ -103,6 +103,7 @@ Patterns/
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sinhamahi2109/DSA-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sinhamahi2109/DSA-journey/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/sinhamahi2109/DSA-journey/tree/master/0151-reverse-words-in-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/sinhamahi2109/DSA-journey/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -164,4 +165,5 @@ Patterns/
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/sinhamahi2109/DSA-journey/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/sinhamahi2109/DSA-journey/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
