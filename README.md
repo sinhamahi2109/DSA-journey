@@ -79,6 +79,7 @@ Patterns/
 | [0013-roman-to-integer](https://github.com/sinhamahi2109/DSA-journey/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sinhamahi2109/DSA-journey/tree/master/0048-rotate-image) |
 | [1903-largest-odd-number-in-string](https://github.com/sinhamahi2109/DSA-journey/tree/master/1903-largest-odd-number-in-string) |
+| [2235-add-two-integers](https://github.com/sinhamahi2109/DSA-journey/tree/master/2235-add-two-integers) |
 ## Simulation
 |  |
 | ------- |
