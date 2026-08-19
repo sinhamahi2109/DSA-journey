@@ -2,6 +2,22 @@
 class Solution {
 public:
     double myPow(double x, int n) {
-        return pow(x,n);
+        long long power=n;
+        double ans=1.0;
+        if(power<0)power=-1*power;
+        if(power==0)return 1;
+        while(power){
+            if(power%2==1){
+                ans=ans*x;
+                power=power-1;
+            }
+            else{
+                x=x*x;
+                power=power/2;
+            }
+        }
+        if(n<0)ans=(double)(1.0)/(double)(ans);
+        return ans;
+
     }
 };
