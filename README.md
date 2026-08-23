@@ -80,6 +80,7 @@ Patterns/
 | [0048-rotate-image](https://github.com/sinhamahi2109/DSA-journey/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sinhamahi2109/DSA-journey/tree/master/0050-powx-n) |
 | [1903-largest-odd-number-in-string](https://github.com/sinhamahi2109/DSA-journey/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/sinhamahi2109/DSA-journey/tree/master/1922-count-good-numbers) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/sinhamahi2109/DSA-journey/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/sinhamahi2109/DSA-journey/tree/master/2235-add-two-integers) |
 ## Simulation
@@ -207,6 +208,7 @@ Patterns/
 | [0050-powx-n](https://github.com/sinhamahi2109/DSA-journey/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/sinhamahi2109/DSA-journey/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sinhamahi2109/DSA-journey/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/sinhamahi2109/DSA-journey/tree/master/1922-count-good-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
