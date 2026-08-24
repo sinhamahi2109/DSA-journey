@@ -1,44 +1,30 @@
 class Solution {
 public:
 
-    bool isValid(string s) {
-        int cnt = 0;
+    void solve(int open, int close, int n, string s, vector<string>& ans) {
 
-        for (char ch : s) {
-            if (ch == '(')
-                cnt++;
-            else
-                cnt--;
-
-            // More closing brackets than opening brackets
-            if (cnt < 0)
-                return false;
-        }
-
-        return cnt == 0;
-    }
-
-    void generate(string s, int n, vector<string>& ans) {
-
+        // If string is complete
         if (s.length() == 2 * n) {
-            if (isValid(s))
-                ans.push_back(s);
-
+            ans.push_back(s);
             return;
         }
 
-        // Add '('
-        generate(s + '(', n, ans);
+        // We can add '(' if we haven't used all n
+        if (open < n) {
+            solve(open + 1, close, n, s + '(', ans);
+        }
 
-        // Add ')'
-        generate(s + ')', n, ans);
+        // We can add ')' only if there are unmatched '('
+        if (close < open) {
+            solve(open, close + 1, n, s + ')', ans);
+        }
     }
 
     vector<string> generateParenthesis(int n) {
 
         vector<string> ans;
 
-        generate("", n, ans);
+        solve(0, 0, n, "", ans);
 
         return ans;
     }
