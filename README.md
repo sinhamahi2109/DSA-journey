@@ -77,6 +77,7 @@ Patterns/
 | ------- |
 | [0002-add-two-numbers](https://github.com/sinhamahi2109/DSA-journey/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/sinhamahi2109/DSA-journey/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/sinhamahi2109/DSA-journey/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/sinhamahi2109/DSA-journey/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sinhamahi2109/DSA-journey/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/sinhamahi2109/DSA-journey/tree/master/0231-power-of-two) |
@@ -234,5 +235,6 @@ Patterns/
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/sinhamahi2109/DSA-journey/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/sinhamahi2109/DSA-journey/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
