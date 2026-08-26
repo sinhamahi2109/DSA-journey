@@ -40,6 +40,7 @@ Patterns/
 | [0073-set-matrix-zeroes](https://github.com/sinhamahi2109/DSA-journey/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sinhamahi2109/DSA-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/sinhamahi2109/DSA-journey/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/sinhamahi2109/DSA-journey/tree/master/0204-count-primes) |
 | [0410-split-array-largest-sum](https://github.com/sinhamahi2109/DSA-journey/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sinhamahi2109/DSA-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sinhamahi2109/DSA-journey/tree/master/0560-subarray-sum-equals-k) |
@@ -80,6 +81,7 @@ Patterns/
 | [0029-divide-two-integers](https://github.com/sinhamahi2109/DSA-journey/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/sinhamahi2109/DSA-journey/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sinhamahi2109/DSA-journey/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/sinhamahi2109/DSA-journey/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sinhamahi2109/DSA-journey/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/sinhamahi2109/DSA-journey/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/sinhamahi2109/DSA-journey/tree/master/1922-count-good-numbers) |
@@ -237,4 +239,24 @@ Patterns/
 | ------- |
 | [0029-divide-two-integers](https://github.com/sinhamahi2109/DSA-journey/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/sinhamahi2109/DSA-journey/tree/master/0231-power-of-two) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sinhamahi2109/DSA-journey/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sinhamahi2109/DSA-journey/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sinhamahi2109/DSA-journey/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sinhamahi2109/DSA-journey/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sinhamahi2109/DSA-journey/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
