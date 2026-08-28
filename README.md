@@ -156,6 +156,7 @@ Patterns/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sinhamahi2109/DSA-journey/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/sinhamahi2109/DSA-journey/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sinhamahi2109/DSA-journey/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/sinhamahi2109/DSA-journey/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/sinhamahi2109/DSA-journey/tree/master/1021-remove-outermost-parentheses) |
@@ -266,6 +267,7 @@ Patterns/
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/sinhamahi2109/DSA-journey/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sinhamahi2109/DSA-journey/tree/master/0225-implement-stack-using-queues) |
 ## Queue
 |  |
