@@ -142,6 +142,7 @@ Patterns/
 | [0008-string-to-integer-atoi](https://github.com/sinhamahi2109/DSA-journey/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/sinhamahi2109/DSA-journey/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sinhamahi2109/DSA-journey/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/sinhamahi2109/DSA-journey/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sinhamahi2109/DSA-journey/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/sinhamahi2109/DSA-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sinhamahi2109/DSA-journey/tree/master/0242-valid-anagram) |
@@ -154,6 +155,7 @@ Patterns/
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sinhamahi2109/DSA-journey/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/sinhamahi2109/DSA-journey/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/sinhamahi2109/DSA-journey/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/sinhamahi2109/DSA-journey/tree/master/1021-remove-outermost-parentheses) |
@@ -161,6 +163,7 @@ Patterns/
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sinhamahi2109/DSA-journey/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sinhamahi2109/DSA-journey/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/sinhamahi2109/DSA-journey/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sinhamahi2109/DSA-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
