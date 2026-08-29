@@ -10,20 +10,17 @@
  */
 class Solution {
 public:
-    ListNode* mergeKLists(vector<ListNode*>& lists) {
-        priority_queue<
-            ListNode*,
-            vector<ListNode*>,
-            function<bool(ListNode*, ListNode*)>
-        > pq([](ListNode* a, ListNode* b) {
+struct Compare {
+        bool operator()(ListNode* a, ListNode* b) {
             return a->val > b->val;
-        });
+        }
+    };
 
-        // Put the first node of every list into the heap
-        for (ListNode* head : lists) {
-            if (head != nullptr) {
-                pq.push(head);
-            }
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
+        priority_queue<ListNode*, vector<ListNode*>, Compare> pq;
+
+        for (auto head : lists) {
+            if (head) pq.push(head);
         }
 
         ListNode dummy(-1);
@@ -34,10 +31,9 @@ public:
             pq.pop();
 
             tail->next = node;
-            tail = tail->next;
+            tail = node;
 
-            // Add the next node from the same list
-            if (node->next != nullptr) {
+            if (node->next) {
                 pq.push(node->next);
             }
         }
