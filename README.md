@@ -187,6 +187,7 @@ Patterns/
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sinhamahi2109/DSA-journey/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sinhamahi2109/DSA-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/sinhamahi2109/DSA-journey/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
@@ -203,6 +204,7 @@ Patterns/
 | ------- |
 | [0002-add-two-numbers](https://github.com/sinhamahi2109/DSA-journey/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sinhamahi2109/DSA-journey/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/sinhamahi2109/DSA-journey/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sinhamahi2109/DSA-journey/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/sinhamahi2109/DSA-journey/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/sinhamahi2109/DSA-journey/tree/master/0141-linked-list-cycle) |
@@ -233,11 +235,13 @@ Patterns/
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sinhamahi2109/DSA-journey/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/sinhamahi2109/DSA-journey/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sinhamahi2109/DSA-journey/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sinhamahi2109/DSA-journey/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/sinhamahi2109/DSA-journey/tree/master/0148-sort-list) |
 ## Backtracking
 |  |
@@ -281,4 +285,8 @@ Patterns/
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sinhamahi2109/DSA-journey/tree/master/0215-kth-largest-element-in-an-array) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sinhamahi2109/DSA-journey/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
