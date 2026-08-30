@@ -38,6 +38,7 @@ Patterns/
 | [0048-rotate-image](https://github.com/sinhamahi2109/DSA-journey/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sinhamahi2109/DSA-journey/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sinhamahi2109/DSA-journey/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/sinhamahi2109/DSA-journey/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/sinhamahi2109/DSA-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/sinhamahi2109/DSA-journey/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/sinhamahi2109/DSA-journey/tree/master/0204-count-primes) |
@@ -131,6 +132,7 @@ Patterns/
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sinhamahi2109/DSA-journey/tree/master/0022-generate-parentheses) |
+| [0118-pascals-triangle](https://github.com/sinhamahi2109/DSA-journey/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/sinhamahi2109/DSA-journey/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
