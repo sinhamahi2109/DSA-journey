@@ -6,40 +6,43 @@ public:
 
         sort(nums.begin(), nums.end());
 
-        for (int i = 0; i < n - 2; i++) {
-
-            // Skip duplicate first elements
+        for (int i = 0; i < n - 2; ++i) {
+            // Skip duplicates
             if (i > 0 && nums[i] == nums[i - 1])
                 continue;
 
-            // Optimization: remaining numbers can't make sum 0
-            if (nums[i] > 0)
+            // Smallest possible sum > 0 → stop
+            if (nums[i] + nums[i + 1] + nums[i + 2] > 0)
                 break;
+
+            // Largest possible sum < 0 → skip this i
+            if (nums[i] + nums[n - 2] + nums[n - 1] < 0)
+                continue;
 
             int left = i + 1;
             int right = n - 1;
 
             while (left < right) {
-                int sum = nums[i] + nums[left] + nums[right];
+                long long sum = (long long)nums[i] + nums[left] + nums[right];
 
                 if (sum < 0) {
-                    left++;
+                    ++left;
                 }
                 else if (sum > 0) {
-                    right--;
+                    --right;
                 }
                 else {
                     ans.push_back({nums[i], nums[left], nums[right]});
 
-                    // Skip duplicates
-                    while (left < right && nums[left] == nums[left + 1])
-                        left++;
+                    int leftVal = nums[left];
+                    int rightVal = nums[right];
 
-                    while (left < right && nums[right] == nums[right - 1])
-                        right--;
+                    // Move directly past duplicates
+                    while (left < right && nums[left] == leftVal)
+                        ++left;
 
-                    left++;
-                    right--;
+                    while (left < right && nums[right] == rightVal)
+                        --right;
                 }
             }
         }
