@@ -31,6 +31,7 @@ Patterns/
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sinhamahi2109/DSA-journey/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/sinhamahi2109/DSA-journey/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sinhamahi2109/DSA-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sinhamahi2109/DSA-journey/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sinhamahi2109/DSA-journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -118,6 +119,7 @@ Patterns/
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sinhamahi2109/DSA-journey/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sinhamahi2109/DSA-journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sinhamahi2109/DSA-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sinhamahi2109/DSA-journey/tree/master/0031-next-permutation) |
@@ -184,6 +186,7 @@ Patterns/
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sinhamahi2109/DSA-journey/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/sinhamahi2109/DSA-journey/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sinhamahi2109/DSA-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/sinhamahi2109/DSA-journey/tree/master/0229-majority-element-ii) |
