@@ -43,6 +43,7 @@ Patterns/
 | [0162-find-peak-element](https://github.com/sinhamahi2109/DSA-journey/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/sinhamahi2109/DSA-journey/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sinhamahi2109/DSA-journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/sinhamahi2109/DSA-journey/tree/master/0229-majority-element-ii) |
 | [0410-split-array-largest-sum](https://github.com/sinhamahi2109/DSA-journey/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sinhamahi2109/DSA-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sinhamahi2109/DSA-journey/tree/master/0560-subarray-sum-equals-k) |
@@ -61,6 +62,7 @@ Patterns/
 | [0141-linked-list-cycle](https://github.com/sinhamahi2109/DSA-journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sinhamahi2109/DSA-journey/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sinhamahi2109/DSA-journey/tree/master/0160-intersection-of-two-linked-lists) |
+| [0229-majority-element-ii](https://github.com/sinhamahi2109/DSA-journey/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sinhamahi2109/DSA-journey/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/sinhamahi2109/DSA-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/sinhamahi2109/DSA-journey/tree/master/0560-subarray-sum-equals-k) |
@@ -184,6 +186,7 @@ Patterns/
 | ------- |
 | [0148-sort-list](https://github.com/sinhamahi2109/DSA-journey/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sinhamahi2109/DSA-journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/sinhamahi2109/DSA-journey/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sinhamahi2109/DSA-journey/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/sinhamahi2109/DSA-journey/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
@@ -199,6 +202,7 @@ Patterns/
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/sinhamahi2109/DSA-journey/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/sinhamahi2109/DSA-journey/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sinhamahi2109/DSA-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Linked List
@@ -291,4 +295,8 @@ Patterns/
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sinhamahi2109/DSA-journey/tree/master/0023-merge-k-sorted-lists) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/sinhamahi2109/DSA-journey/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
