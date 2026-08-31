@@ -11,42 +11,24 @@
 class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
-        if (head == NULL || head->next == NULL || k == 0)
-            return head;
-
-        // Find length and tail
-        int n = 1;
-        ListNode* tail = head;
-
-        while (tail->next != NULL) {
-            tail = tail->next;
-            n++;
+        if(head==0||head->next==0||k==0)return head;
+        ListNode* tail=head;
+        int len=1;
+        while(tail->next!=NULL){
+            len++;
+            tail=tail->next;
         }
+        k=k%len;
+        int cnt=len-k;
+        ListNode* newTail=head;
 
-        // k can be greater than n
-        k = k % n;
-
-        if (k == 0)
-            return head;
-
-        // Make the list circular
-        tail->next = head;
-
-        // Find new tail
-        int steps = n - k;
-        ListNode* newTail = tail;
-
-        while (steps--) {
-            newTail = newTail->next;
+        for(int i=1;i<cnt;i++){
+            newTail=newTail->next;
         }
-
-        // New head is after new tail
-        ListNode* newHead = newTail->next;
-
-        // Break the circle
-        newTail->next = NULL;
-
-        return newHead;
+        tail->next=head;
+        head=newTail->next;
+        newTail->next=NULL;
+        return head;
     
     }
 };
