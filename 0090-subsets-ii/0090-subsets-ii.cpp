@@ -1,33 +1,24 @@
 class Solution {
 public:
-void solve(int index, vector<int>& nums, 
-               vector<int>& current, 
-               vector<vector<int>>& ans) {
-        
-        ans.push_back(current);
+vector<vector<int>> ans;
+    vector<int> subset;
 
-        for (int i = index; i < nums.size(); i++) {
-            
-            // Skip duplicates at the same recursion level
-            if (i > index && nums[i] == nums[i - 1])
+    void backtrack(int start, vector<int>& nums) {
+        ans.push_back(subset);
+
+        for (int i = start; i < nums.size(); i++) {
+            if (i > start && nums[i] == nums[i - 1])
                 continue;
 
-            current.push_back(nums[i]);
-            
-            solve(i + 1, nums, current, ans);
-            
-            // Backtracking
-            current.pop_back();
+            subset.push_back(nums[i]);
+            backtrack(i + 1, nums);
+            subset.pop_back();
         }
     }
+
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
-        vector<vector<int>> ans;
-        vector<int> current;
-
         sort(nums.begin(), nums.end());
-
-        solve(0, nums, current, ans);
-
+        backtrack(0, nums);
         return ans;
     }
 };
