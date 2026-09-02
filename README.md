@@ -138,6 +138,7 @@ Patterns/
 | ------- |
 | [0022-generate-parentheses](https://github.com/sinhamahi2109/DSA-journey/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/sinhamahi2109/DSA-journey/tree/master/0118-pascals-triangle) |
+| [0131-palindrome-partitioning](https://github.com/sinhamahi2109/DSA-journey/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/sinhamahi2109/DSA-journey/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -152,6 +153,7 @@ Patterns/
 | [0014-longest-common-prefix](https://github.com/sinhamahi2109/DSA-journey/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sinhamahi2109/DSA-journey/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sinhamahi2109/DSA-journey/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/sinhamahi2109/DSA-journey/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/sinhamahi2109/DSA-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sinhamahi2109/DSA-journey/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/sinhamahi2109/DSA-journey/tree/master/0451-sort-characters-by-frequency) |
@@ -258,6 +260,7 @@ Patterns/
 | ------- |
 | [0022-generate-parentheses](https://github.com/sinhamahi2109/DSA-journey/tree/master/0022-generate-parentheses) |
 | [0090-subsets-ii](https://github.com/sinhamahi2109/DSA-journey/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/sinhamahi2109/DSA-journey/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
