@@ -1,42 +1,41 @@
 class Solution {
 public:
-    bool isPalindrome(string &s, int left, int right) {
-        while (left < right) {
-            if (s[left] != s[right])
-                return false;
+   
+    vector<vector<string>> ans;
+    vector<string> path;
 
-            left++;
-            right--;
-        }
-        return true;
-    }
-
-    void solve(int index, string &s, vector<string> &path,
-               vector<vector<string>> &ans) {
-
+    void solve(int index, string &s, vector<vector<bool>> &dp) {
         if (index == s.size()) {
             ans.push_back(path);
             return;
         }
 
         for (int end = index; end < s.size(); end++) {
-
-            if (isPalindrome(s, index, end)) {
-
+            if (dp[index][end]) {
                 path.push_back(s.substr(index, end - index + 1));
 
-                solve(end + 1, s, path, ans);
+                solve(end + 1, s, dp);
 
-                path.pop_back(); // Backtracking
+                path.pop_back();
             }
         }
     }
 
     vector<vector<string>> partition(string s) {
-        vector<vector<string>> ans;
-        vector<string> path;
+        int n = s.size();
+        vector<vector<bool>> dp(n, vector<bool>(n, false));
 
-        solve(0, s, path, ans);
+        
+        for (int i = n - 1; i >= 0; i--) {
+            for (int j = i; j < n; j++) {
+                if (s[i] == s[j] &&
+                    (j - i < 2 || dp[i + 1][j - 1])) {
+                    dp[i][j] = true;
+                }
+            }
+        }
+
+        solve(0, s, dp);
 
         return ans;
     }
