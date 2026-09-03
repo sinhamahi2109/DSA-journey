@@ -36,6 +36,7 @@ Patterns/
 | [0031-next-permutation](https://github.com/sinhamahi2109/DSA-journey/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sinhamahi2109/DSA-journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sinhamahi2109/DSA-journey/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/sinhamahi2109/DSA-journey/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/sinhamahi2109/DSA-journey/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sinhamahi2109/DSA-journey/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sinhamahi2109/DSA-journey/tree/master/0073-set-matrix-zeroes) |
@@ -259,6 +260,7 @@ Patterns/
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sinhamahi2109/DSA-journey/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/sinhamahi2109/DSA-journey/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/sinhamahi2109/DSA-journey/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/sinhamahi2109/DSA-journey/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
