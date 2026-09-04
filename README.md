@@ -46,6 +46,7 @@ Patterns/
 | [0162-find-peak-element](https://github.com/sinhamahi2109/DSA-journey/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/sinhamahi2109/DSA-journey/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sinhamahi2109/DSA-journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/sinhamahi2109/DSA-journey/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/sinhamahi2109/DSA-journey/tree/master/0229-majority-element-ii) |
 | [0410-split-array-largest-sum](https://github.com/sinhamahi2109/DSA-journey/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sinhamahi2109/DSA-journey/tree/master/0540-single-element-in-a-sorted-array) |
@@ -263,6 +264,7 @@ Patterns/
 | [0039-combination-sum](https://github.com/sinhamahi2109/DSA-journey/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/sinhamahi2109/DSA-journey/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/sinhamahi2109/DSA-journey/tree/master/0131-palindrome-partitioning) |
+| [0216-combination-sum-iii](https://github.com/sinhamahi2109/DSA-journey/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
