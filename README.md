@@ -40,6 +40,7 @@ Patterns/
 | [0048-rotate-image](https://github.com/sinhamahi2109/DSA-journey/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sinhamahi2109/DSA-journey/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sinhamahi2109/DSA-journey/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/sinhamahi2109/DSA-journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sinhamahi2109/DSA-journey/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/sinhamahi2109/DSA-journey/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/sinhamahi2109/DSA-journey/tree/master/0128-longest-consecutive-sequence) |
@@ -262,6 +263,7 @@ Patterns/
 | ------- |
 | [0022-generate-parentheses](https://github.com/sinhamahi2109/DSA-journey/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sinhamahi2109/DSA-journey/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/sinhamahi2109/DSA-journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sinhamahi2109/DSA-journey/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/sinhamahi2109/DSA-journey/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/sinhamahi2109/DSA-journey/tree/master/0216-combination-sum-iii) |
@@ -269,6 +271,7 @@ Patterns/
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sinhamahi2109/DSA-journey/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/sinhamahi2109/DSA-journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sinhamahi2109/DSA-journey/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/sinhamahi2109/DSA-journey/tree/master/0231-power-of-two) |
 ## Enumeration
