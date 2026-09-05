@@ -1,31 +1,25 @@
 class Solution {
 public:
-
-    void solve(int open, int close, int n, string s, vector<string>& ans) {
-
-        // If string is complete
-        if (s.length() == 2 * n) {
-            ans.push_back(s);
-            return;
-        }
-
-        // We can add '(' if we haven't used all n
-        if (open < n) {
-            solve(open + 1, close, n, s + '(', ans);
-        }
-
-        // We can add ')' only if there are unmatched '('
-        if (close < open) {
-            solve(open, close + 1, n, s + ')', ans);
-        }
+void solve(int n, int open , int close, string str, vector<string>&ans){
+    if(str.length()==2*n){
+        ans.push_back(str);
+        return;
     }
+    if(open<n){
+        solve(n,open+1,close,str+'(',ans);
+    }
+    if(close<open){
+        solve(n,open,close+1,str+')',ans);
+    }
+}
+
+    
 
     vector<string> generateParenthesis(int n) {
-
-        vector<string> ans;
-
-        solve(0, 0, n, "", ans);
-
+        vector<string>ans;
+        solve(n,0,0,"",ans);
         return ans;
+
+        
     }
 };
