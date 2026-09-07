@@ -41,6 +41,7 @@ Patterns/
 | [0054-spiral-matrix](https://github.com/sinhamahi2109/DSA-journey/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sinhamahi2109/DSA-journey/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/sinhamahi2109/DSA-journey/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sinhamahi2109/DSA-journey/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sinhamahi2109/DSA-journey/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/sinhamahi2109/DSA-journey/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/sinhamahi2109/DSA-journey/tree/master/0128-longest-consecutive-sequence) |
@@ -83,6 +84,7 @@ Patterns/
 | [0048-rotate-image](https://github.com/sinhamahi2109/DSA-journey/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sinhamahi2109/DSA-journey/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sinhamahi2109/DSA-journey/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/sinhamahi2109/DSA-journey/tree/master/0079-word-search) |
 ## Math
 |  |
 | ------- |
@@ -158,6 +160,7 @@ Patterns/
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sinhamahi2109/DSA-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sinhamahi2109/DSA-journey/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sinhamahi2109/DSA-journey/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/sinhamahi2109/DSA-journey/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/sinhamahi2109/DSA-journey/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/sinhamahi2109/DSA-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sinhamahi2109/DSA-journey/tree/master/0242-valid-anagram) |
@@ -267,6 +270,7 @@ Patterns/
 | [0022-generate-parentheses](https://github.com/sinhamahi2109/DSA-journey/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sinhamahi2109/DSA-journey/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/sinhamahi2109/DSA-journey/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sinhamahi2109/DSA-journey/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sinhamahi2109/DSA-journey/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/sinhamahi2109/DSA-journey/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/sinhamahi2109/DSA-journey/tree/master/0216-combination-sum-iii) |
@@ -318,4 +322,8 @@ Patterns/
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/sinhamahi2109/DSA-journey/tree/master/0229-majority-element-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/sinhamahi2109/DSA-journey/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
