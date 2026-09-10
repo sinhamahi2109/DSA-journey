@@ -30,6 +30,7 @@ Patterns/
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sinhamahi2109/DSA-journey/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/sinhamahi2109/DSA-journey/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sinhamahi2109/DSA-journey/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sinhamahi2109/DSA-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -126,6 +127,7 @@ Patterns/
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sinhamahi2109/DSA-journey/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sinhamahi2109/DSA-journey/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sinhamahi2109/DSA-journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sinhamahi2109/DSA-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -149,6 +151,7 @@ Patterns/
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sinhamahi2109/DSA-journey/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/sinhamahi2109/DSA-journey/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/sinhamahi2109/DSA-journey/tree/master/1903-largest-odd-number-in-string) |
 ## String
