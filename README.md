@@ -41,6 +41,7 @@ Patterns/
 | [0039-combination-sum](https://github.com/sinhamahi2109/DSA-journey/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/sinhamahi2109/DSA-journey/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sinhamahi2109/DSA-journey/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/sinhamahi2109/DSA-journey/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sinhamahi2109/DSA-journey/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/sinhamahi2109/DSA-journey/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sinhamahi2109/DSA-journey/tree/master/0079-word-search) |
@@ -95,6 +96,7 @@ Patterns/
 | [0029-divide-two-integers](https://github.com/sinhamahi2109/DSA-journey/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/sinhamahi2109/DSA-journey/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sinhamahi2109/DSA-journey/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/sinhamahi2109/DSA-journey/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/sinhamahi2109/DSA-journey/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sinhamahi2109/DSA-journey/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/sinhamahi2109/DSA-journey/tree/master/1903-largest-odd-number-in-string) |
