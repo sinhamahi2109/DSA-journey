@@ -97,6 +97,7 @@ Patterns/
 | [0048-rotate-image](https://github.com/sinhamahi2109/DSA-journey/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sinhamahi2109/DSA-journey/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/sinhamahi2109/DSA-journey/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/sinhamahi2109/DSA-journey/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/sinhamahi2109/DSA-journey/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sinhamahi2109/DSA-journey/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/sinhamahi2109/DSA-journey/tree/master/1903-largest-odd-number-in-string) |
@@ -107,6 +108,7 @@ Patterns/
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sinhamahi2109/DSA-journey/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/sinhamahi2109/DSA-journey/tree/master/0067-add-binary) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/sinhamahi2109/DSA-journey/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Prefix Sum
 |  |
@@ -168,6 +170,7 @@ Patterns/
 | [0020-valid-parentheses](https://github.com/sinhamahi2109/DSA-journey/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sinhamahi2109/DSA-journey/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/sinhamahi2109/DSA-journey/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/sinhamahi2109/DSA-journey/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/sinhamahi2109/DSA-journey/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/sinhamahi2109/DSA-journey/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/sinhamahi2109/DSA-journey/tree/master/0151-reverse-words-in-a-string) |
@@ -288,6 +291,7 @@ Patterns/
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sinhamahi2109/DSA-journey/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/sinhamahi2109/DSA-journey/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/sinhamahi2109/DSA-journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sinhamahi2109/DSA-journey/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/sinhamahi2109/DSA-journey/tree/master/0231-power-of-two) |
